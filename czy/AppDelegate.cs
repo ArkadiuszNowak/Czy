@@ -54,6 +54,9 @@ namespace czy
 		{
 			// Called when the application is about to terminate. Save data, if needed. See also DidEnterBackground.
 		}
+
+
+
 	}
 }
 

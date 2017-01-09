@@ -1,0 +1,9 @@
+/Users/arkadiusznowak/Documents/Projekty/Czy/czy/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/arkadiusznowak/Documents/Projekty/Czy/czy/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/arkadiusznowak/Documents/Projekty/Czy/czy/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/arkadiusznowak/Documents/Projekty/Czy/czy/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/arkadiusznowak/Documents/Projekty/Czy/czy/obj/iPhoneSimulator/Debug/optimized/
+/Users/arkadiusznowak/Documents/Projekty/Czy/czy/bin/iPhoneSimulator/Debug/czy.exe.mdb
+/Users/arkadiusznowak/Documents/Projekty/Czy/czy/bin/iPhoneSimulator/Debug/czy.exe
+/Users/arkadiusznowak/Documents/Projekty/Czy/czy/obj/iPhoneSimulator/Debug/czy.exe
+/Users/arkadiusznowak/Documents/Projekty/Czy/czy/obj/iPhoneSimulator/Debug/czy.exe.mdb
